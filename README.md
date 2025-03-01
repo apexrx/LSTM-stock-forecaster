@@ -46,7 +46,7 @@ This project uses a historical stock dataset sourced from Kaggle: [Apple AAPL Hi
 
 ## Visualization Feature
 
-One of the key outputs of the project is the actual vs. predicted stock prices graph, saved as `stock_price_prediction.png`. This visualization provides an immediate, clear comparison of model performance.
+This visualization provides an immediate, clear comparison of model performance at its current stage.
 
 ![Actual vs. Predicted Stock Prices](stock_price_prediction.png)
 
